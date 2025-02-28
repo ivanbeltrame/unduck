@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>Unduck</ShortName>
+	<Description>DuckDuckGo&apos;s bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables all of DuckDuckGo&apos;s bangs.</Description>
+  	<InputEncoding>UTF-8</InputEncoding>
+	<Url type="text/html" template="https://unduck.ivanbeltrame.com?q={searchTerms}" />
+	<Image width="32" height="32">https://unduck.ivanbeltrame.com/search.svg</Image>
+</OpenSearchDescription>
